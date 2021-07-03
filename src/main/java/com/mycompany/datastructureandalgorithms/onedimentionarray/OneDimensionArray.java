@@ -1,6 +1,6 @@
 package com.mycompany.datastructureandalgorithms.onedimentionarray;
 
-public class OneDimentionArray {
+public class OneDimensionArray {
 
     public static void main(String[] args) {
         int[] nums = new int[5];
